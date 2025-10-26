@@ -21,7 +21,7 @@ Tidak terima revisi di GitHub setelah submit link
 
 Submit lewat dari deadline = tidak di terima
 
-Kodingan tidak rapi, terlambat, tidak menjelaskan codingan dengan detail, copy paste code teman, code tidak sesuai materi yang dipelajari (misal menggunakan array, padahal belum belajar array) akan mengurangi nilai uts kalian.
+Kodingan tidak rapi, terlambat, tidak menjelaskan codingan dengan detail, copy paste code teman, code tidak sesuai materi yang dipelajari (misal menggunakan array, padahal belum belajar array), rename repo tidak sesuai, akan mengurangi nilai uts kalian atau bahkan tidak di nilai sama sekali.
 
 #
 **Pengumpulan Tugas**
